@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2.50mm"
+   height="6.02mm"
+   viewBox="2.5 2.3 25 60.2"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="88_vodarenska_vez.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="16.569421"
+     inkscape:cx="-0.42246496"
+     inkscape:cy="7.483665"
+     inkscape:window-width="1920"
+     inkscape:window-height="962"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <title
+     id="title1">vodárenská věž</title>
+  <polyline
+     points="6.8,38 13.5,3.5 20.2,38"
+     fill="none"
+     stroke="#231f20"
+     stroke-width="1.5"
+     stroke-linejoin="miter"
+     stroke-linecap="butt"
+     id="polyline1-5"
+     transform="matrix(1.3509537,0,0,0.99694728,-3.0893338,4.6086006)"
+     style="stroke:#0892cd;stroke-opacity:1" />
+  <circle
+     cx="15.270161"
+     cy="47.249237"
+     r="11.2"
+     fill="#231f20"
+     id="circle1-3"
+     style="fill:#0892cd;fill-opacity:1" />
+</svg>

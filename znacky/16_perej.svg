@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="5.54mm" height="4.22mm" viewBox="-0.4 2.2 55.4 42.2">
+  <title>peřej</title>
+  <path d="M2,7 C2,3.5 17,3.5 17,9 C17,16 4,28 4,36 C4,42.5 11,42 19,42" fill="none" stroke="#2e3192" stroke-width="2.7" stroke-linejoin="miter" stroke-linecap="butt"/>
+  <path d="M19.5,7 C19.5,3.5 34.5,3.5 34.5,9 C34.5,16 21.5,28 21.5,36 C21.5,42.5 28.5,42 36.5,42" fill="none" stroke="#2e3192" stroke-width="2.7" stroke-linejoin="miter" stroke-linecap="butt"/>
+  <path d="M37,7 C37,3.5 52,3.5 52,9 C52,16 39,28 39,36 C39,42.5 46,42 54,42" fill="none" stroke="#2e3192" stroke-width="2.7" stroke-linejoin="miter" stroke-linecap="butt"/>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="4.36mm" height="3.02mm" viewBox="1.2 1.9 43.6 30.2">
+  <title>pevnůstky</title>
+  <rect x="6" y="8" width="34" height="18" fill="none" rx="3" stroke="#e31e24" stroke-width="1.8"/>
+  <line x1="6.8" y1="8.8" x2="3" y2="3.5" stroke="#e31e24" stroke-width="1.8" stroke-linecap="butt"/>
+  <line x1="39.2" y1="8.8" x2="43" y2="3.5" stroke="#e31e24" stroke-width="1.8" stroke-linecap="butt"/>
+  <line x1="39.2" y1="25.2" x2="43" y2="30.5" stroke="#e31e24" stroke-width="1.8" stroke-linecap="butt"/>
+  <line x1="6.8" y1="25.2" x2="3" y2="30.5" stroke="#e31e24" stroke-width="1.8" stroke-linecap="butt"/>
+</svg>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2.64mm"
+   height="4.76mm"
+   viewBox="1.2 0.9 26.4 47.6"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="59_autobusova_zastavka.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="22.627417"
+     inkscape:cx="18.075417"
+     inkscape:cy="8.0875338"
+     inkscape:window-width="1920"
+     inkscape:window-height="962"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <title
+     id="title1">autobusová zastávka</title>
+  <circle
+     cx="14.5"
+     cy="14"
+     r="9.8"
+     fill="none"
+     stroke="#e31e24"
+     stroke-width="4.6"
+     id="circle1" />
+  <rect
+     x="2.3986349"
+     y="14"
+     width="4.5999999"
+     height="33.5"
+     fill="#e31e24"
+     id="rect1" />
+</svg>

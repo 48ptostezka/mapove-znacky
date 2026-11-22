@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="5.00mm" height="1.84mm" viewBox="5 4.1 50 18.4">
+  <title>směr toku</title>
+  <line x1="6" y1="13.3" x2="50" y2="13.3" stroke="#0868b0" stroke-width="2.3" stroke-linecap="butt"/>
+  <polyline points="36,6.3 51,13.3 36,20.3" fill="none" stroke="#0868b0" stroke-width="2.5" stroke-linejoin="miter" stroke-linecap="butt"/>
+</svg>

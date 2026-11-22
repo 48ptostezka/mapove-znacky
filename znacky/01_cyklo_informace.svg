@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="7.90mm" height="8.70mm" viewBox="2 2 79 87">
+  <title>informace (cyklisté vítáni)</title>
+  <rect x="3" y="3" width="77" height="85" fill="#ffe900"/>
+  <rect x="24" y="24" width="37" height="38" fill="#5bb87a"/>
+  <circle cx="42.5" cy="31" r="4.3" fill="#ffffff"/>
+  <rect x="36.5" y="38" width="9" height="4" fill="#ffffff"/>
+  <rect x="39.5" y="38" width="6" height="19" fill="#ffffff"/>
+  <rect x="35" y="55" width="15" height="4" fill="#ffffff"/>
+</svg>

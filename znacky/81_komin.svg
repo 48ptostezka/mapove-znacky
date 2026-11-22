@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2.10mm" height="4.98mm" viewBox="1 1.2 21 49.8">
+  <title>komín</title>
+  <polygon points="8,14 15,14 17,46 5.5,46" fill="#231f20"/>
+  <rect x="2" y="45.5" width="19" height="4.5" fill="#231f20"/>
+  <ellipse cx="14" cy="6.5" rx="2.3" ry="5" fill="#231f20" transform="rotate(35 14 6.5)"/>
+</svg>

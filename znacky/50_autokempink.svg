@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="5.90mm" height="5.11mm" viewBox="2 0.9 59 51.1">
+  <title>autokempink</title>
+  <line x1="29" y1="5" x2="48" y2="47" stroke="#e31e24" stroke-width="6.2" stroke-linecap="round"/>
+  <line x1="38" y1="5" x2="19" y2="47" stroke="#e31e24" stroke-width="6.2" stroke-linecap="round"/>
+  <rect x="3" y="46" width="57" height="5" fill="#e31e24"/>
+</svg>

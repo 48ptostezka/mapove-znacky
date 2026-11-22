@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="5.52mm" height="4.77mm" viewBox="0.9 0.3 55.2 47.7">
+  <title>krytý bazén</title>
+  <polyline points="3,25.5 28.5,3.5 54,25.5" fill="none" stroke="#2e3192" stroke-width="3.3" stroke-linejoin="miter" stroke-linecap="butt"/>
+  <rect x="10" y="20.5" width="37" height="26.5" fill="#2e3192"/>
+</svg>

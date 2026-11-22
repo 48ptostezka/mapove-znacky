@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="6.36mm" height="4.18mm" viewBox="12.7 4.2 63.6 41.8">
+  <title>zákaz vjezdu</title>
+  <circle cx="25" cy="16.5" r="10" fill="none" stroke="#e31e24" stroke-width="2.6"/>
+  <polyline points="35,16.5 74,16.5 74,45" fill="none" stroke="#e31e24" stroke-width="2.6" stroke-linejoin="miter" stroke-linecap="butt"/>
+</svg>

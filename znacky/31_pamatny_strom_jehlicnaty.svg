@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="5.36mm" height="6.42mm" viewBox="0.2 -0.8 53.6 64.2">
+  <title>památný strom jehličnatý</title>
+  <polygon points="27,2.3 45,28 37.55,28 50.5,46.5 3.5,46.5 16.45,28 9,28" fill="#008c40" stroke="#231f20" stroke-width="2.4" stroke-linejoin="miter"/>
+  <polyline points="27,47.5 27,61 38.5,61" fill="none" stroke="#231f20" stroke-width="2.8" stroke-linejoin="miter" stroke-linecap="butt"/>
+</svg>

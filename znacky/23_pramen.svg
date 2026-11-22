@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2.68mm" height="6.11mm" viewBox="2.1 1.1 26.8 61.1">
+  <title>pramen</title>
+  <circle cx="15.5" cy="14.5" r="12.4" fill="#0868b0"/>
+  <path d="M16,25 C16,30.5 13.5,32 10.5,34.3 C6.8,37.2 6,40.6 9.6,42.2 C13,43.6 17.2,44.6 19.6,46.6 C22.2,48.8 22.4,51.8 20.4,53.8 C17.8,56.2 13,57.6 8.2,59" fill="none" stroke="#0868b0" stroke-width="4.4" stroke-linejoin="miter" stroke-linecap="round"/>
+</svg>

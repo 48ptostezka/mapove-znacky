@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="5.62mm"
+   height="4.78mm"
+   viewBox="0.9 0.2 56.2 47.8"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="49_ubytovani_bez_stravovani.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="14.755737"
+     inkscape:cx="-7.0481059"
+     inkscape:cy="8.6745918"
+     inkscape:window-width="1920"
+     inkscape:window-height="962"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title1">ubytování bez stravování</title>
+  <polyline
+     points="3,26 29,3.5 55,26"
+     fill="none"
+     stroke="#e31e24"
+     stroke-width="3.4"
+     stroke-linejoin="miter"
+     stroke-linecap="butt"
+     id="polyline1" />
+  <polyline
+     points="10.6,22 10.6,45.4 47.4,45.4 47.4,22"
+     fill="none"
+     stroke="#e31e24"
+     stroke-width="3.2"
+     stroke-linejoin="miter"
+     stroke-linecap="butt"
+     id="polyline2"
+     transform="matrix(0.9971163,0,0,1.1016765,0.0836272,-4.7181749)" />
+  <rect
+     x="20.858616"
+     y="27.433048"
+     width="16"
+     height="11"
+     fill="none"
+     stroke="#e31e24"
+     stroke-width="3"
+     id="rect2" />
+</svg>

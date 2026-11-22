@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3.14mm"
+   height="3.54mm"
+   viewBox="2.3 1.8 31.4 35.4"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="24_pramen_mineralni.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="39.84883"
+     inkscape:cx="4.8683989"
+     inkscape:cy="3.4881827"
+     inkscape:window-width="1920"
+     inkscape:window-height="962"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <title
+     id="title1">pramen minerální vody</title>
+  <polygon
+     points="5,4.5 23.5,4.5 16.5,34.5 10,34.5"
+     fill="#ffffff"
+     stroke="#2e3192"
+     stroke-width="3.4"
+     stroke-linejoin="round"
+     id="polygon1" />
+  <path
+     d="M 23.397215,6.834748 C 28.197215,6.634748 31,7.6 31,11 31,14.6 24,22 18.8,28"
+     fill="none"
+     stroke="#2e3192"
+     stroke-width="3.4"
+     stroke-linejoin="miter"
+     stroke-linecap="round"
+     id="path1"
+     sodipodi:nodetypes="csc" />
+</svg>

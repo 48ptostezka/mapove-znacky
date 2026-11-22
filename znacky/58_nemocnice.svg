@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="5.10mm" height="5.10mm" viewBox="0 1.5 51 51">
+  <title>nemocnice</title>
+  <circle cx="25.5" cy="27" r="23" fill="#ffffff" stroke="#e31e24" stroke-width="3"/>
+  <rect x="22.5" y="4" width="6" height="46" fill="#e31e24"/>
+  <rect x="2.5" y="24" width="46" height="6" fill="#e31e24"/>
+</svg>

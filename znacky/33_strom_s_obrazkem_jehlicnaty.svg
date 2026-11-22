@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2.60mm" height="5.39mm" viewBox="1.5 0.5 26 53.9">
+  <title>strom s obrázkem (jehličnatý)</title>
+  <line x1="14.5" y1="3" x2="14.5" y2="30" stroke="#231f20" stroke-width="2.8" stroke-linecap="butt"/>
+  <polyline points="5.5,12.5 14.5,3.5 23.5,12.5" fill="none" stroke="#231f20" stroke-width="2.8" stroke-linejoin="miter" stroke-linecap="butt"/>
+  <polyline points="4,26 14.5,15.5 25,26" fill="none" stroke="#231f20" stroke-width="2.8" stroke-linejoin="miter" stroke-linecap="butt"/>
+  <rect x="4.5" y="30" width="20" height="12" fill="#ffffff" stroke="#231f20" stroke-width="4"/>
+  <polyline points="14.5,44 14.5,52 25,52" fill="none" stroke="#231f20" stroke-width="2.8" stroke-linejoin="miter" stroke-linecap="butt"/>
+</svg>

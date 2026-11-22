@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2.40mm" height="5.40mm" viewBox="1 2 24 54">
+  <title>telekomunikační věž</title>
+  <rect x="3" y="3" width="20" height="3.8" fill="#231f20"/>
+  <rect x="3" y="15" width="20" height="3.8" fill="#231f20"/>
+  <rect x="11.2" y="3" width="3.6" height="38" fill="#231f20"/>
+  <circle cx="13" cy="44" r="11" fill="#231f20"/>
+</svg>

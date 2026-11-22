@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3.10mm" height="3.96mm" viewBox="1.5 2.2 31 39.6">
+  <title>průsmyk nebo sedlo</title>
+  <path d="M3.5,4 Q18.5,22 3.5,40" fill="none" stroke="#231f20" stroke-width="2.4" stroke-linejoin="miter" stroke-linecap="butt"/>
+  <path d="M30.5,4 Q15.5,22 30.5,40" fill="none" stroke="#231f20" stroke-width="2.4" stroke-linejoin="miter" stroke-linecap="butt"/>
+</svg>

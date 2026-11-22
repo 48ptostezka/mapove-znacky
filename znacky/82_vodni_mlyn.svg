@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="4.58mm" height="5.10mm" viewBox="6.1 4.5 45.8 51">
+  <title>vodní mlýn</title>
+  <circle cx="29" cy="30" r="12.2" fill="none" stroke="#231f20" stroke-width="2.5"/>
+  <line x1="29" y1="17" x2="29" y2="5.5" stroke="#231f20" stroke-width="2.5" stroke-linecap="butt"/>
+  <line x1="17.7417" y1="23.5" x2="7.78238" y2="17.75" stroke="#231f20" stroke-width="2.5" stroke-linecap="butt"/>
+  <line x1="17.7417" y1="36.5" x2="7.78238" y2="42.25" stroke="#231f20" stroke-width="2.5" stroke-linecap="butt"/>
+  <line x1="29" y1="43" x2="29" y2="54.5" stroke="#231f20" stroke-width="2.5" stroke-linecap="butt"/>
+  <line x1="40.2583" y1="36.5" x2="50.2176" y2="42.25" stroke="#231f20" stroke-width="2.5" stroke-linecap="butt"/>
+  <line x1="40.2583" y1="23.5" x2="50.2176" y2="17.75" stroke="#231f20" stroke-width="2.5" stroke-linecap="butt"/>
+</svg>

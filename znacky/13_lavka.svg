@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3.40mm"
+   height="3.44mm"
+   viewBox="-1 4.8 34 34.4"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="13_lavka.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="28.996487"
+     inkscape:cx="3.0693373"
+     inkscape:cy="5.7938053"
+     inkscape:window-width="1920"
+     inkscape:window-height="962"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <title
+     id="title1">lávka</title>
+  <line
+     x1="16"
+     y1="13"
+     x2="16"
+     y2="31"
+     stroke="#231f20"
+     stroke-width="4"
+     stroke-linecap="butt"
+     id="line2" />
+  <polyline
+     points="10,7.5 16,13 22,7.5"
+     fill="none"
+     stroke="#231f20"
+     stroke-width="3.4"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="polyline2" />
+  <polyline
+     points="10,36.5 16,31 22,36.5"
+     fill="none"
+     stroke="#231f20"
+     stroke-width="3.4"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="polyline3" />
+</svg>

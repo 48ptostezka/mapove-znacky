@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="5.39mm" height="4.10mm" viewBox="-0.4 0 53.9 41">
+  <title>jezdectví</title>
+  <path d="M8,10 L7.5,2 L13.5,6.5 Q24,3 33,9 C42,15 47,28 51.5,39 L21,39 C21,33 22,28.5 25,25.5 C19.5,28.5 15,32 11.5,34.5 C8,37 3.5,37 2,34 C0.8,31 2.5,27.5 4.5,25 C6.5,20 6.5,15 8,10 Z" fill="#ffe900" stroke="#231f20" stroke-width="2" stroke-linejoin="round" stroke-linecap="butt"/>
+  <ellipse cx="15" cy="15.5" rx="2.3" ry="1.7" fill="#231f20" transform="rotate(-20 15 15.5)"/>
+  <circle cx="5.5" cy="30.5" r="1" fill="#231f20"/>
+</svg>

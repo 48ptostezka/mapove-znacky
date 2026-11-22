@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3.22mm" height="3.22mm" viewBox="1.4 1.4 32.2 32.2">
+  <title>závrt</title>
+  <circle cx="17.5" cy="17.5" r="13.8" fill="none" stroke="#6e464e" stroke-width="2.6"/>
+  <line x1="17.5" y1="4.9" x2="17.5" y2="11" stroke="#6e464e" stroke-width="2.4" stroke-linecap="butt"/>
+  <line x1="17.5" y1="24" x2="17.5" y2="30.1" stroke="#6e464e" stroke-width="2.4" stroke-linecap="butt"/>
+  <line x1="4.9" y1="17.5" x2="11" y2="17.5" stroke="#6e464e" stroke-width="2.4" stroke-linecap="butt"/>
+  <line x1="24" y1="17.5" x2="30.1" y2="17.5" stroke="#6e464e" stroke-width="2.4" stroke-linecap="butt"/>
+</svg>
