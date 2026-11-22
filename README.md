@@ -4,7 +4,11 @@ Reimplementace mapových značek používaných v turistických mapách Klubu č
  
 Nejde o jejich kopii, nýbrž o vlastní nápodobu turistických značek používaných v těchto mapách, proto jsou označovány jako 'KČT-like mapové značky'.
  
-Sada obsahuje 89 bodových mapových značek ve formátu SVG. Značky v této sadě vznikly vlastním překreslením podle obecně zavedené podoby těchto symbolů, nikoli kopírováním grafiky. Tato sada není oficiálním produktem Klubu českých turistů ani s ním není spojená. Název KČT je použit pouze pro označení, jakému stylu map se značky podobají.
+Sada obsahuje 90 bodových mapových značek ve formátu SVG. Značky v této sadě vznikly vlastním překreslením podle obecně zavedené podoby těchto symbolů, nikoli kopírováním grafiky. Tato sada není oficiálním produktem Klubu českých turistů ani s ním není spojená. Název KČT je použit pouze pro označení, jakému stylu map se značky podobají.
+
+## Přehled značek
+
+<img src="vsechny_znacky.svg" width=600 alt ="přehled všech značek">
 
 ## Seznam značek
  
@@ -99,6 +103,7 @@ Sada obsahuje 89 bodových mapových značek ve formátu SVG. Značky v této sa
 | <img src="znacky/87_vezovita_stavba.svg" width="36" height="36" alt="věžovitá stavba"> | `87_vezovita_stavba.svg` | věžovitá stavba |
 | <img src="znacky/88_vodarenska_vez.svg" width="36" height="36" alt="vodárenská věž"> | `88_vodarenska_vez.svg` | vodárenská věž |
 | <img src="znacky/89_vodni_elektrarna.svg" width="36" height="36" alt="vodní elektrárna"> | `89_vodni_elektrarna.svg` | vodní elektrárna |
+| <img src="znacky/90_muzeum.svg" width="36" height="36" alt="muzeum"> | `90_muzeum.svg` | muzeum |
 
  
 ## Licence
@@ -106,4 +111,3 @@ Sada obsahuje 89 bodových mapových značek ve formátu SVG. Značky v této sa
 Značky jsou uvolněny pod licencí **CC BY-NC 4.0**.
  
 Plné znění viz soubor [LICENSE](LICENSE).
-

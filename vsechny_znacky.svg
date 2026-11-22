@@ -1,0 +1,538 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="227.2mm" height="526.0mm" viewBox="0 0 227.20 526.00"><rect id="pozadi" width="227.20" height="526.00" fill="#ffffff" /><g id="znacka-01_cyklo_informace"><svg viewBox="2 2 79 87" x="17.60" y="8.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>informace (cyklisté vítáni)</title>
+  <rect x="3" y="3" width="77" height="85" fill="#ffe900" />
+  <rect x="24" y="24" width="37" height="38" fill="#5bb87a" />
+  <circle cx="42.5" cy="31" r="4.3" fill="#ffffff" />
+  <rect x="36.5" y="38" width="9" height="4" fill="#ffffff" />
+  <rect x="39.5" y="38" width="6" height="19" fill="#ffffff" />
+  <rect x="35" y="55" width="15" height="4" fill="#ffffff" />
+</svg><text x="25.60" y="29.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">informace (cyklisté</text><text x="25.60" y="33.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">vítáni)</text></g><g id="znacka-02_cyklo_restaurace"><svg viewBox="2 2 79 87" version="1.1" id="svg3" sodipodi:docname="02_cyklo_restaurace.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="52.80" y="8.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs3" />
+  <sodipodi:namedview id="namedview3" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="32" inkscape:cx="7.0625" inkscape:cy="16.3125" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg3" />
+  <title id="title1">restaurace (cyklisté vítáni)</title>
+  <rect x="3" y="3" width="77" height="85" fill="#ffe900" id="rect1" />
+  <g transform="translate(3 22)" id="g3">
+    <g class="bily-lem" id="g2">
+      <polygon points="31,28 14.6,13.1 2,22 10,3 31,22 " fill="#ffffff" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" id="polygon1" transform="translate(0.0292326,0.0292326)" />
+      <rect x="31" y="22" width="34.5" height="19.5" fill="#ffffff" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" id="rect2" />
+    </g>
+    <polygon points="31,28 14.6,13.1 2,22 10,3 31,22 " fill="#e31e24" id="polygon2" transform="translate(0.0292326,0.0292326)" />
+    <rect x="31" y="22" width="34.5" height="19.5" fill="#e31e24" id="rect3" />
+  </g>
+</svg><text x="60.80" y="29.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">restaurace (cyklisté</text><text x="60.80" y="33.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">vítáni)</text></g><g id="znacka-03_cyklo_ubytovani"><svg viewBox="2 2 79 87" version="1.1" id="svg4" sodipodi:docname="03_cyklo_ubytovani.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="88.00" y="8.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs4" />
+  <sodipodi:namedview id="namedview4" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="11.465278" inkscape:cx="15.437916" inkscape:cy="14.827377" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="g4" />
+  <title id="title1">ubytování (cyklisté vítáni)</title>
+  <rect x="3.0815892" y="2.8368216" width="77" height="85" fill="#ffe900" id="rect1" />
+  <g transform="translate(13 20)" id="g4">
+    <g class="bily-lem" id="g2">
+      <polyline points="3,26 29,3.5 55,26" fill="none" stroke="#ffffff" stroke-width="7.4" stroke-linejoin="round" stroke-linecap="butt" id="polyline1" />
+      <polyline points="10.6,22 10.6,45.4 47.4,45.4 47.4,22" fill="none" stroke="#ffffff" stroke-width="7.2" stroke-linejoin="round" stroke-linecap="butt" id="polyline2" />
+      <rect x="14.448172" y="22.630154" width="27.61412" height="18.392408" fill="#ffffff" stroke="#ffffff" stroke-width="5.33977" stroke-linejoin="round" id="rect2" />
+      <path sodipodi:type="star" style="fill:#ffffff;fill-opacity:1;stroke-width:2.64583" id="path4" inkscape:flatsided="true" sodipodi:sides="3" sodipodi:cx="13.232005" sodipodi:cy="19.123104" sodipodi:r1="16.586714" sodipodi:r2="8.2933569" sodipodi:arg1="0.51426513" sodipodi:arg2="1.5614627" inkscape:rounded="0" inkscape:randomized="0" d="M 27.673301,27.282028 -1.0544786,27.550171 13.077193,2.5371128 Z" inkscape:transform-center-x="-0.015315631" inkscape:transform-center-y="-2.0758108" transform="matrix(0.99989526,0.01447311,-0.00748613,0.51718967,16.136035,6.4192249)" />
+    </g>
+    <polyline points="3,26 29,3.5 55,26" fill="none" stroke="#e31e24" stroke-width="3.4" stroke-linejoin="miter" stroke-linecap="butt" id="polyline3" />
+    <polyline points="10.6,22 10.6,45.4 47.4,45.4 47.4,22" fill="none" stroke="#e31e24" stroke-width="3.2" stroke-linejoin="miter" stroke-linecap="butt" id="polyline4" transform="matrix(0.99737004,0,0,1.0925205,0.07626895,-4.2934111)" />
+    <rect x="19.69231" y="24" width="19" height="15" fill="#e31e24" id="rect4" />
+  </g>
+</svg><text x="96.00" y="29.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">ubytování (cyklisté</text><text x="96.00" y="33.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">vítáni)</text></g><g id="znacka-04_cyklo_taboriste"><svg viewBox="2 2 79 87" version="1.1" id="svg4" sodipodi:docname="04_cyklo_taboriste.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="123.20" y="8.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs4" />
+  <sodipodi:namedview id="namedview4" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="16.214352" inkscape:cx="12.889815" inkscape:cy="17.88539" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="g4" />
+  <title id="title1">tábořiště (cyklisté vítáni)</title>
+  <rect x="3" y="3" width="77" height="85" fill="#ffe900" id="rect1" />
+  <g transform="translate(9 16)" id="g4">
+    <line x1="29" y1="5" x2="48" y2="47" stroke="#e31e24" stroke-width="6.2" stroke-linecap="round" id="line3" />
+    <line x1="38" y1="5" x2="19" y2="47" stroke="#e31e24" stroke-width="6.2" stroke-linecap="round" id="line4" />
+    <rect x="3" y="46" width="57" height="5" fill="#e31e24" id="rect4" />
+  </g>
+</svg><text x="131.20" y="29.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">tábořiště (cyklisté</text><text x="131.20" y="33.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">vítáni)</text></g><g id="znacka-05_osamocena_skala"><svg viewBox="1 2 35 37" x="158.40" y="8.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>osamocená skála</title>
+  <polygon points="2,38 14,3 20,25.5 25,15 35,38" fill="#231f20" />
+</svg><text x="166.40" y="29.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">osamocená skála</text></g><g id="znacka-06_prusmyk_sedlo"><svg viewBox="1.5 2.2 31 39.6" x="193.60" y="8.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>průsmyk nebo sedlo</title>
+  <path d="M3.5,4 Q18.5,22 3.5,40" fill="none" stroke="#231f20" stroke-width="2.4" stroke-linejoin="miter" stroke-linecap="butt" />
+  <path d="M30.5,4 Q15.5,22 30.5,40" fill="none" stroke="#231f20" stroke-width="2.4" stroke-linejoin="miter" stroke-linecap="butt" />
+</svg><text x="201.60" y="29.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">průsmyk nebo sedlo</text></g><g id="znacka-07_zavrt"><svg viewBox="1.4 1.4 32.2 32.2" x="17.60" y="42.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>závrt</title>
+  <circle cx="17.5" cy="17.5" r="13.8" fill="none" stroke="#6e464e" stroke-width="2.6" />
+  <line x1="17.5" y1="4.9" x2="17.5" y2="11" stroke="#6e464e" stroke-width="2.4" stroke-linecap="butt" />
+  <line x1="17.5" y1="24" x2="17.5" y2="30.1" stroke="#6e464e" stroke-width="2.4" stroke-linecap="butt" />
+  <line x1="4.9" y1="17.5" x2="11" y2="17.5" stroke="#6e464e" stroke-width="2.4" stroke-linecap="butt" />
+  <line x1="24" y1="17.5" x2="30.1" y2="17.5" stroke="#6e464e" stroke-width="2.4" stroke-linecap="butt" />
+</svg><text x="25.60" y="63.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">závrt</text></g><g id="znacka-08_propast"><svg viewBox="0.4 0.9 40.2 40.2" version="1.1" id="svg5" sodipodi:docname="08_propast.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="52.80" y="42.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs5" />
+  <sodipodi:namedview id="namedview5" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="49.625829" inkscape:cx="7.5968504" inkscape:cy="7.5968504" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg5" />
+  <title id="title1">propast</title>
+  <circle cx="20.5" cy="21" r="16.8" fill="none" stroke="#231f20" stroke-width="4.6" id="circle1" />
+  <circle cx="20.5" cy="21" r="9.6" fill="none" stroke="#231f20" stroke-width="2.6" id="circle2" />
+  <line x1="20.5" y1="4.7665782" x2="20.5" y2="10.266581" stroke="#231f20" stroke-width="2.2" stroke-linecap="butt" id="line2" />
+  <line x1="20.5" y1="31.733419" x2="20.5" y2="37.233429" stroke="#231f20" stroke-width="2.2" stroke-linecap="butt" id="line3" />
+  <line x1="4.2665782" y1="21" x2="9.7665806" y2="21" stroke="#231f20" stroke-width="2.2" stroke-linecap="butt" id="line4" />
+  <line x1="31.233419" y1="21" x2="36.733429" y2="21" stroke="#231f20" stroke-width="2.2" stroke-linecap="butt" id="line5" />
+</svg><text x="60.80" y="63.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">propast</text></g><g id="znacka-09_jeskyne"><svg viewBox="1 1.8 50 21.4" x="88.00" y="42.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>jeskyně</title>
+  <path d="M2,20.5 H11.5 A14,16 0 0 1 39.5,20.5 H50" fill="none" stroke="#231f20" stroke-width="3.4" stroke-linejoin="miter" stroke-linecap="butt" />
+</svg><text x="96.00" y="63.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">jeskyně</text></g><g id="znacka-10_jeskyne_prohlidkova"><svg viewBox="1 1.8 50 21.4" x="123.20" y="42.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>prohlídková jeskyně</title>
+  <path d="M2,20.5 H11.5 A14,16 0 0 1 39.5,20.5 H50" fill="none" stroke="#e31e24" stroke-width="3.4" stroke-linejoin="miter" stroke-linecap="butt" />
+</svg><text x="131.20" y="63.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">prohlídková jeskyně</text></g><g id="znacka-11_trigonometricky_bod"><svg viewBox="1.3 0.3 43.4 39.5" x="158.40" y="42.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>trigonometrický bod</title>
+  <polygon points="23,4 4.5,37.5 41.5,37.5" fill="none" stroke="#885848" stroke-width="2.6" stroke-linejoin="miter" />
+  <circle cx="23" cy="27" r="3.4" fill="#885848" />
+</svg><text x="166.40" y="63.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">trigonometrický bod</text></g><g id="znacka-12_vyskova_kota"><svg viewBox="2.7 3.7 15.6 15.6" x="193.60" y="42.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>výšková kóta</title>
+  <circle cx="10.5" cy="11.5" r="6.8" fill="#885848" />
+</svg><text x="201.60" y="63.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">výšková kóta</text></g><g id="znacka-13_lavka"><svg viewBox="-1 4.8 34 34.4" version="1.1" id="svg3" sodipodi:docname="13_lavka.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="17.60" y="76.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs3" />
+  <sodipodi:namedview id="namedview3" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="28.996487" inkscape:cx="3.0693373" inkscape:cy="5.7938053" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg3" />
+  <title id="title1">lávka</title>
+  <line x1="16" y1="13" x2="16" y2="31" stroke="#231f20" stroke-width="4" stroke-linecap="butt" id="line2" />
+  <polyline points="10,7.5 16,13 22,7.5" fill="none" stroke="#231f20" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round" id="polyline2" />
+  <polyline points="10,36.5 16,31 22,36.5" fill="none" stroke="#231f20" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round" id="polyline3" />
+</svg><text x="25.60" y="97.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">lávka</text></g><g id="znacka-14_most"><svg viewBox="-1 0.4 42 61.2" version="1.1" id="svg2" sodipodi:docname="14_most.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="52.80" y="76.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs2" />
+  <sodipodi:namedview id="namedview2" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="32.597359" inkscape:cx="7.945429" inkscape:cy="11.565354" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg2" />
+  <title id="title1">most</title>
+  <polyline points="3,3 11,11 11,51 3,59" fill="none" stroke="#231f20" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" id="polyline1" />
+  <polyline points="37,3 29,11 29,51 37,59" fill="none" stroke="#231f20" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" id="polyline2" />
+</svg><text x="60.80" y="97.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">most</text></g><g id="znacka-15_smer_toku"><svg viewBox="5 4.1 50 18.4" x="88.00" y="76.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>směr toku</title>
+  <line x1="6" y1="13.3" x2="50" y2="13.3" stroke="#0868b0" stroke-width="2.3" stroke-linecap="butt" />
+  <polyline points="36,6.3 51,13.3 36,20.3" fill="none" stroke="#0868b0" stroke-width="2.5" stroke-linejoin="miter" stroke-linecap="butt" />
+</svg><text x="96.00" y="97.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">směr toku</text></g><g id="znacka-16_perej"><svg viewBox="-0.4 2.2 55.4 42.2" x="123.20" y="76.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>peřej</title>
+  <path d="M2,7 C2,3.5 17,3.5 17,9 C17,16 4,28 4,36 C4,42.5 11,42 19,42" fill="none" stroke="#2e3192" stroke-width="2.7" stroke-linejoin="miter" stroke-linecap="butt" />
+  <path d="M19.5,7 C19.5,3.5 34.5,3.5 34.5,9 C34.5,16 21.5,28 21.5,36 C21.5,42.5 28.5,42 36.5,42" fill="none" stroke="#2e3192" stroke-width="2.7" stroke-linejoin="miter" stroke-linecap="butt" />
+  <path d="M37,7 C37,3.5 52,3.5 52,9 C52,16 39,28 39,36 C39,42.5 46,42 54,42" fill="none" stroke="#2e3192" stroke-width="2.7" stroke-linejoin="miter" stroke-linecap="butt" />
+</svg><text x="131.20" y="97.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">peřej</text></g><g id="znacka-17_vodopad"><svg viewBox="3.5 3 18.3 35" x="158.40" y="76.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>vodopád</title>
+  <rect x="4.5" y="4" width="4.3" height="33" fill="#2e3192" />
+  <rect x="16.5" y="4" width="4.3" height="33" fill="#2e3192" />
+</svg><text x="166.40" y="97.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">vodopád</text></g><g id="znacka-18_pristaviste"><svg viewBox="-0.8 1.8 34.6 41.7" x="193.60" y="76.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>přístaviště</title>
+  <circle cx="16.5" cy="7.5" r="3.5" fill="none" stroke="#231f20" stroke-width="2.4" />
+  <rect x="14.8" y="11" width="3.4" height="30.5" fill="#231f20" />
+  <rect x="10.5" y="15" width="12" height="2.6" fill="#231f20" />
+  <path d="M4.5,35 Q16.5,47 28.5,35" fill="none" stroke="#231f20" stroke-width="3" stroke-linejoin="miter" stroke-linecap="butt" />
+  <polygon points="-4,0.5 4,0.5 0,-6" fill="#231f20" transform="translate(4.5 35) rotate(-45)" />
+  <polygon points="-4,0.5 4,0.5 0,-6" fill="#231f20" transform="translate(28.5 35) rotate(45)" />
+</svg><text x="201.60" y="97.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">přístaviště</text></g><g id="znacka-19_misto_ke_koupani"><svg viewBox="1.9 1.9 40.2 28.2" x="17.60" y="110.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>místo vhodné ke koupání</title>
+  <rect x="4.2" y="4.2" width="35.6" height="23.6" fill="none" stroke="#2e3192" stroke-width="2.6" />
+</svg><text x="25.60" y="131.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">místo vhodné ke</text><text x="25.60" y="135.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">koupání</text></g><g id="znacka-20_koupaliste"><svg viewBox="2 2 43 29" x="52.80" y="110.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>koupaliště</title>
+  <rect x="3" y="3" width="41" height="27" fill="#2e3192" />
+</svg><text x="60.80" y="131.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">koupaliště</text></g><g id="znacka-21_kryty_bazen"><svg viewBox="0.9 0.3 55.2 47.7" x="88.00" y="110.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>krytý bazén</title>
+  <polyline points="3,25.5 28.5,3.5 54,25.5" fill="none" stroke="#2e3192" stroke-width="3.3" stroke-linejoin="miter" stroke-linecap="butt" />
+  <rect x="10" y="20.5" width="37" height="26.5" fill="#2e3192" />
+</svg><text x="96.00" y="131.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">krytý bazén</text></g><g id="znacka-22_vodojem_studna"><svg viewBox="2 2 27 26.5" x="123.20" y="110.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>vodojem nebo studna</title>
+  <rect x="3" y="3" width="25" height="24.5" fill="#2e3192" />
+</svg><text x="131.20" y="131.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">vodojem nebo studna</text></g><g id="znacka-23_pramen"><svg viewBox="2.1 1.1 26.8 61.1" x="158.40" y="110.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>pramen</title>
+  <circle cx="15.5" cy="14.5" r="12.4" fill="#0868b0" />
+  <path d="M16,25 C16,30.5 13.5,32 10.5,34.3 C6.8,37.2 6,40.6 9.6,42.2 C13,43.6 17.2,44.6 19.6,46.6 C22.2,48.8 22.4,51.8 20.4,53.8 C17.8,56.2 13,57.6 8.2,59" fill="none" stroke="#0868b0" stroke-width="4.4" stroke-linejoin="miter" stroke-linecap="round" />
+</svg><text x="166.40" y="131.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">pramen</text></g><g id="znacka-24_pramen_mineralni"><svg viewBox="2.3 1.8 31.4 35.4" version="1.1" id="svg1" sodipodi:docname="24_pramen_mineralni.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="193.60" y="110.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs1" />
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="39.84883" inkscape:cx="4.8683989" inkscape:cy="3.4881827" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg1" />
+  <title id="title1">pramen minerální vody</title>
+  <polygon points="5,4.5 23.5,4.5 16.5,34.5 10,34.5" fill="#ffffff" stroke="#2e3192" stroke-width="3.4" stroke-linejoin="round" id="polygon1" />
+  <path d="M 23.397215,6.834748 C 28.197215,6.634748 31,7.6 31,11 31,14.6 24,22 18.8,28" fill="none" stroke="#2e3192" stroke-width="3.4" stroke-linejoin="miter" stroke-linecap="round" id="path1" sodipodi:nodetypes="csc" />
+</svg><text x="201.60" y="131.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">pramen minerální</text><text x="201.60" y="135.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">vody</text></g><g id="znacka-25_lazne"><svg viewBox="2 1.5 48 65.5" version="1.1" id="svg3" sodipodi:docname="25_lazne.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="17.60" y="144.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs3" />
+  <sodipodi:namedview id="namedview3" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="30.457378" inkscape:cx="0.3939932" inkscape:cy="9.4230041" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg3" />
+  <title id="title1">lázně</title>
+  <path d="M3,45 H49 A23,21 0 0 1 3,45 Z" fill="#2e3192" id="path1" />
+  <rect x="20.5" y="18" width="11" height="28" fill="none" stroke="#2e3192" stroke-width="3" id="rect1" />
+  <line x1="26" y1="11.043434" x2="26" y2="16.543434" stroke="#2e3192" stroke-width="3" stroke-linecap="butt" id="line1" />
+  <path d="M11.5,21 V12 A7.25,8 0 0 1 26,12 A7.25,8 0 0 1 40.5,12 V21" fill="none" stroke="#2e3192" stroke-width="3" stroke-linejoin="miter" stroke-linecap="butt" id="path2" />
+  <rect x="10" y="26" width="3" height="7.5" fill="#2e3192" id="rect2" />
+  <rect x="39" y="26" width="3" height="7.5" fill="#2e3192" id="rect3" />
+</svg><text x="25.60" y="165.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">lázně</text></g><g id="znacka-26_ponor"><svg viewBox="2 2 32 29.4" version="1.1" id="svg2" sodipodi:docname="26_ponor.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="52.80" y="144.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs2" />
+  <sodipodi:namedview id="namedview2" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="23.990621" inkscape:cx="0.41682955" inkscape:cy="7.7947126" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg2" />
+  <title id="title1">ponor</title>
+  <line x1="18" y1="3.6065743" x2="18" y2="21.606577" stroke="#0868b0" stroke-width="1.8" stroke-linecap="butt" id="line1" />
+  <polygon points="18,28 3,15.5 18,19 33,15.5 " fill="#0868b0" id="polygon1" transform="translate(0,0.60657377)" />
+  <line x1="3" y1="29.5" x2="33" y2="29.5" stroke="#0868b0" stroke-width="1.8" stroke-linecap="butt" id="line2" />
+</svg><text x="60.80" y="165.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">ponor</text></g><g id="znacka-27_vyveracka"><svg viewBox="2 2.9 30 26.1" version="1.1" id="svg2" sodipodi:docname="27_vyveracka.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="88.00" y="144.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs2" />
+  <sodipodi:namedview id="namedview2" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="64" inkscape:cx="9.40625" inkscape:cy="3.703125" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg2" />
+  <title id="title1">vyvěračka</title>
+  <line x1="3" y1="4.8" x2="31" y2="4.8" stroke="#0868b0" stroke-width="1.8" stroke-linecap="butt" id="line1" />
+  <polygon points="17,5.5 31,16.5 17,13.5 3,16.5 " fill="#0868b0" id="polygon1" transform="translate(0,0.17980268)" />
+  <line x1="17" y1="11.179803" x2="17" y2="28.179802" stroke="#0868b0" stroke-width="1.8" stroke-linecap="butt" id="line2" />
+</svg><text x="96.00" y="165.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">vyvěračka</text></g><g id="znacka-28_vinice"><svg viewBox="0 0 19.7 37" version="1.1" id="svg3" sodipodi:docname="28_vinice.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="123.20" y="144.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs3" />
+  <sodipodi:namedview id="namedview3" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="53.917792" inkscape:cx="6.843752" inkscape:cy="8.5686001" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg3" />
+  <title id="title1">vinice</title>
+  <line x1="10" y1="1" x2="10" y2="36" stroke="#231f20" stroke-width="1.4" stroke-linecap="butt" id="line1" />
+  <line x1="10" y1="5.601665" x2="17.224138" y2="5.601665" stroke="#231f20" stroke-width="1.29066" stroke-linecap="butt" id="line2" style="stroke-width:1.40000002;stroke-dasharray:none" />
+  <line x1="2.9874008" y1="31.5" x2="11.024536" y2="31.5" stroke="#231f20" stroke-width="1.2551" stroke-linecap="butt" id="line3" style="stroke-width:1.4;stroke-dasharray:none" />
+  <path d="M10,5.5 C4.5,6.5 2.5,10 3,13.5 C3.5,17 6.5,18.8 10,19 C15,19.5 18,22 18,25.5 C18,29 15,31.5 11,31.5" fill="none" stroke="#231f20" stroke-width="1.4" stroke-linejoin="miter" stroke-linecap="butt" id="path3" />
+</svg><text x="131.20" y="165.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">vinice</text></g><g id="znacka-29_chmelnice"><svg viewBox="0.2 0.2 11.6 39.8" x="158.40" y="144.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>chmelnice</title>
+  <circle cx="6" cy="6" r="4.8" fill="#231f20" />
+  <line x1="6" y1="10" x2="6" y2="39" stroke="#231f20" stroke-width="1.3" stroke-linecap="butt" />
+</svg><text x="166.40" y="165.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">chmelnice</text></g><g id="znacka-30_pamatny_strom_listnaty"><svg viewBox="1.7 2 40.6 61.4" version="1.1" id="svg1" sodipodi:docname="30_pamatny_strom_listnaty.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="193.60" y="144.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs1" />
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="11.487366" inkscape:cx="8.0958504" inkscape:cy="-0.43526077" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg1" />
+  <title id="title1">památný strom listnatý</title>
+  <path d="M 14.618047,15.315163 C 14.918047,9.1151627 17.693861,4.3 22.093861,4.3 c 4.4,0 6.369674,4.4120931 6.669674,10.612093 5,0 8.236465,1.587907 8.236465,5.587907 0,3.5 -1.5,5.5 -3.5,7 4.5,1 6.5,3.5 6.5,7.5 0,3.5 -0.5,5.5 -2.5,5.5 H 7 c -2.2,0 -3,-2 -3,-5.5 0,-4 2,-6.5 6.5,-7.5 -2,-1.5 -4,-3.5 -4,-7 0,-4 2.118047,-5.184837 8.118047,-5.184837 z" fill="#008c40" stroke="#231f20" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="butt" id="path1" sodipodi:nodetypes="cscscsssscsc" />
+  <polyline points="22.5,41.5 22.5,61 35.5,61" fill="none" stroke="#231f20" stroke-width="2.8" stroke-linejoin="miter" stroke-linecap="butt" id="polyline1" />
+</svg><text x="201.60" y="165.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">památný strom</text><text x="201.60" y="169.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">listnatý</text></g><g id="znacka-31_pamatny_strom_jehlicnaty"><svg viewBox="0.2 -0.8 53.6 64.2" x="17.60" y="178.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>památný strom jehličnatý</title>
+  <polygon points="27,2.3 45,28 37.55,28 50.5,46.5 3.5,46.5 16.45,28 9,28" fill="#008c40" stroke="#231f20" stroke-width="2.4" stroke-linejoin="miter" />
+  <polyline points="27,47.5 27,61 38.5,61" fill="none" stroke="#231f20" stroke-width="2.8" stroke-linejoin="miter" stroke-linecap="butt" />
+</svg><text x="25.60" y="199.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">památný strom</text><text x="25.60" y="203.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">jehličnatý</text></g><g id="znacka-32_strom_s_obrazkem_listnaty"><svg viewBox="1.9 0.8 36.2 51.7" version="1.1" id="svg1" sodipodi:docname="32_strom_s_obrazkem_listnaty.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="52.80" y="178.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs1" />
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="19.293601" inkscape:cx="6.8934774" inkscape:cy="12.64668" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg1" />
+  <title id="title1">strom s obrázkem (listnatý)</title>
+  <path d="M 14.171485,11.994297 C 14.371485,6.7942971 17.2,3.2 20.5,3.2 c 3.3,0 5.1,3.8 5.3,9 5,0 7,1.3 7,4.3 0,2.5 -1.8,4 -3.2,5.3 3.4,1.2 6.1,3.7 6.1,7.2 0,3.5 -2.2,6 -5.2,6.5 H 9.5 C 6.5,35 4.3,32.5 4.3,29 4.3,25.5 7,23 10.4,21.8 9,20.5 7.2,19 7.2,16.5 c 0,-3 0.9714854,-4.505703 6.971485,-4.505703 z" fill="#ffffff" stroke="#231f20" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="butt" id="path1" sodipodi:nodetypes="cscscsccscsc" />
+  <rect x="9.5" y="29.3" width="21" height="11.5" fill="#ffffff" stroke="#231f20" stroke-width="3" id="rect1" />
+  <polyline points="20.5,42.3 20.5,50 31.5,50" fill="none" stroke="#231f20" stroke-width="3" stroke-linejoin="miter" stroke-linecap="butt" id="polyline1" />
+</svg><text x="60.80" y="199.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">strom s obrázkem</text><text x="60.80" y="203.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">(listnatý)</text></g><g id="znacka-33_strom_s_obrazkem_jehlicnaty"><svg viewBox="1.5 0.5 26 53.9" x="88.00" y="178.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>strom s obrázkem (jehličnatý)</title>
+  <line x1="14.5" y1="3" x2="14.5" y2="30" stroke="#231f20" stroke-width="2.8" stroke-linecap="butt" />
+  <polyline points="5.5,12.5 14.5,3.5 23.5,12.5" fill="none" stroke="#231f20" stroke-width="2.8" stroke-linejoin="miter" stroke-linecap="butt" />
+  <polyline points="4,26 14.5,15.5 25,26" fill="none" stroke="#231f20" stroke-width="2.8" stroke-linejoin="miter" stroke-linecap="butt" />
+  <rect x="4.5" y="30" width="20" height="12" fill="#ffffff" stroke="#231f20" stroke-width="4" />
+  <polyline points="14.5,44 14.5,52 25,52" fill="none" stroke="#231f20" stroke-width="2.8" stroke-linejoin="miter" stroke-linecap="butt" />
+</svg><text x="96.00" y="199.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">strom s obrázkem</text><text x="96.00" y="203.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">(jehličnatý)</text></g><g id="znacka-34_prirodni_rezervace_mensi"><svg viewBox="1.5 1 65 65" x="123.20" y="178.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>přírodní rezervace / památka menší rozlohy</title>
+  <polygon points="34,2 65.5,33.5 34,65 2.5,33.5" fill="#008c40" />
+</svg><text x="131.20" y="199.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">přírodní rezervace /</text><text x="131.20" y="203.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">památka menší</text><text x="131.20" y="207.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">rozlohy</text></g><g id="znacka-35_prirodni_zajimavost"><svg viewBox="1.7 1.2 64.6 64.6" x="158.40" y="178.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>přírodní zajímavost</title>
+  <polygon points="34,6 61.5,33.5 34,61 6.5,33.5" fill="none" stroke="#008c40" stroke-width="5.4" stroke-linejoin="miter" />
+</svg><text x="166.40" y="199.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">přírodní zajímavost</text></g><g id="znacka-36_parkoviste"><svg viewBox="7 2 38 41" version="1.1" id="svg1" sodipodi:docname="36_parkoviste.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="193.60" y="178.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs1" />
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="17.203032" inkscape:cx="1.8601372" inkscape:cy="2.0926544" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg1" />
+  <title id="title1">parkoviště</title>
+  <rect x="8" y="3" width="36" height="39" fill="#2e3192" id="rect1" />
+  <path d="m 17.0766,9 h 12.5 q 7.5,0 7.5,8.5 0,8.5 -7.5,8.5 h -6 v 11 h -6.5 z m 6.5,5.5 h 5.5 q 2.5,0 2.5,3 0,3 -2.5,3 h -5.5 z" fill="#ffffff" fill-rule="evenodd" id="path1" />
+</svg><text x="201.60" y="199.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">parkoviště</text></g><g id="znacka-37_cerpaci_stanice"><svg viewBox="1 2 40 39.3" version="1.1" id="svg3" sodipodi:docname="37_cerpaci_stanice.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="17.60" y="212.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs3" />
+  <sodipodi:namedview id="namedview3" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="17.947182" inkscape:cx="0.39003337" inkscape:cy="9.2493627" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg3" />
+  <title id="title1">čerpací stanice</title>
+  <rect x="10" y="3" width="22" height="34" fill="#231f20" id="rect1" />
+  <rect x="12.602387" y="5.6023874" width="16.951591" height="14.293368" fill="#ffffff" id="rect2" style="stroke-width:1.29715" />
+  <rect x="2" y="36" width="38" height="4.3" fill="#231f20" id="rect3" />
+</svg><text x="25.60" y="233.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">čerpací stanice</text></g><g id="znacka-38_zakaz_vjezdu"><svg viewBox="12.7 4.2 63.6 41.8" x="52.80" y="212.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>zákaz vjezdu</title>
+  <circle cx="25" cy="16.5" r="10" fill="none" stroke="#e31e24" stroke-width="2.6" />
+  <polyline points="35,16.5 74,16.5 74,45" fill="none" stroke="#e31e24" stroke-width="2.6" stroke-linejoin="miter" stroke-linecap="butt" />
+</svg><text x="60.80" y="233.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">zákaz vjezdu</text></g><g id="znacka-39_zeleznicni_stanice"><svg viewBox="-1 -1 54 32" version="1.1" id="svg2" sodipodi:docname="39_zeleznicni_stanice.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="88.00" y="212.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs2" />
+  <sodipodi:namedview id="namedview2" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="15.585612" inkscape:cx="3.721381" inkscape:cy="0.83410265" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg2" />
+  <title id="title1">železniční stanice</title>
+  <rect x="1" y="1" width="50" height="28" fill="#ffffff" stroke="#231f20" stroke-width="2" id="rect1" />
+  <rect x="17" y="18.06002" width="16" height="10" fill="#231f20" id="rect2" />
+</svg><text x="96.00" y="233.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">železniční stanice</text></g><g id="znacka-40_zeleznicni_zastavka"><svg viewBox="-1 -1 33 31" version="1.1" id="svg2" sodipodi:docname="40_zeleznicni_zastavka.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="123.20" y="212.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs2" />
+  <sodipodi:namedview id="namedview2" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="32.176748" inkscape:cx="4.5685163" inkscape:cy="7.7695856" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg2" />
+  <title id="title1">železniční zastávka</title>
+  <rect x="1" y="1" width="29" height="27" fill="#ffffff" stroke="#231f20" stroke-width="2" id="rect1" />
+  <rect x="7" y="16.164455" width="16" height="11" fill="#231f20" id="rect2" />
+</svg><text x="131.20" y="233.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">železniční zastávka</text></g><g id="znacka-41_letiste"><svg viewBox="-1.5 2 79 69" version="1.1" id="svg2" sodipodi:docname="41_letiste.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="158.40" y="212.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs2" />
+  <sodipodi:namedview id="namedview2" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="14.45622" inkscape:cx="11.0679" inkscape:cy="5.4647759" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg2" />
+  <title id="title1">letiště</title>
+  <rect x="33" y="3" width="10" height="62" fill="#231f20" rx="5" id="rect1" />
+  <polygon points="33,22 43,22 75.5,45 75.5,53 43,38 33,38 0.5,53 0.5,45" fill="#231f20" stroke="#231f20" stroke-width="2" stroke-linejoin="round" id="polygon1" />
+  <rect x="27.5" y="63" width="21" height="7" fill="#231f20" id="rect2" />
+  <rect style="fill:#231f20;fill-opacity:1;stroke-width:2.64583" id="rect3" width="21.230768" height="8.5106096" x="27.692307" y="32.656502" />
+</svg><text x="166.40" y="233.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">letiště</text></g><g id="znacka-42_misto_dalekeho_rozhledu"><svg viewBox="1 1 58 58" x="193.60" y="212.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>místo dalekého rozhledu</title>
+  <polygon points="30,2 39.8,20.2 58,30 39.8,39.8 30,58 20.2,39.8 2,30 20.2,20.2" fill="#e31e24" />
+  <circle cx="30" cy="30" r="8.8" fill="#ffffff" />
+</svg><text x="201.60" y="233.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">místo dalekého</text><text x="201.60" y="237.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">rozhledu</text></g><g id="znacka-43_rozhledna_pristupna"><svg viewBox="1 2 40 70" x="17.60" y="246.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>přístupná rozhledna</title>
+  <rect x="9" y="16.5" width="24" height="50" fill="#e31e24" />
+  <rect x="13" y="3" width="16" height="10" fill="#e31e24" />
+  <rect x="4" y="12" width="34" height="5" fill="#e31e24" />
+  <rect x="2" y="66" width="38" height="5" fill="#e31e24" />
+</svg><text x="25.60" y="267.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">přístupná rozhledna</text></g><g id="znacka-44_rozhledna_nepristupna"><svg viewBox="1 2 40 70" version="1.1" id="svg4" sodipodi:docname="44_rozhledna_nepristupna.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="52.80" y="246.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs4" />
+  <sodipodi:namedview id="namedview4" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="20.152122" inkscape:cx="-1.93528" inkscape:cy="12.455264" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg4" />
+  <title id="title1">nepřístupná rozhledna</title>
+  <rect x="10.671694" y="14.065063" width="20.656612" height="54.462715" fill="#ffffff" stroke="#e31e24" stroke-width="3.2747" id="rect1" style="stroke-width:3.19999991;stroke-dasharray:none" />
+  <rect x="13" y="3" width="16" height="10" fill="#e31e24" id="rect2" />
+  <rect x="4" y="12" width="34" height="5" fill="#e31e24" id="rect3" />
+  <rect x="2" y="66" width="38" height="5" fill="#e31e24" id="rect4" />
+</svg><text x="60.80" y="267.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">nepřístupná</text><text x="60.80" y="271.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">rozhledna</text></g><g id="znacka-45_restaurace"><svg viewBox="1 2 65.5 40.5" version="1.1" id="svg1" sodipodi:docname="45_restaurace.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="88.00" y="246.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs1" />
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="197.03291" inkscape:cx="10.744398" inkscape:cy="8.0088143" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg1" />
+  <title id="title1">restaurace</title>
+  <polygon points="31,28 14.6,13.1 2,22 10,3 31,22 " fill="#e31e24" id="polygon1" transform="translate(0.05371353,0.05371353)" />
+  <rect x="31" y="22" width="34.5" height="19.5" fill="#e31e24" id="rect1" />
+</svg><text x="96.00" y="267.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">restaurace</text></g><g id="znacka-46_obcerstveni"><svg viewBox="1 2 65.5 41" version="1.1" id="svg1" sodipodi:docname="46_obcerstveni.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="123.20" y="246.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs1" />
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="137.62425" inkscape:cx="12.083626" inkscape:cy="8.0799712" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg1" />
+  <title id="title1">občerstvení</title>
+  <polygon points="31,28 14.6,13.1 2,22 10,3 31,22 " fill="#e31e24" id="polygon1" transform="translate(0.05437666,0.05437666)" />
+  <rect x="32.6" y="23.6" width="31.3" height="16.8" fill="none" stroke="#e31e24" stroke-width="3.2" id="rect1" />
+</svg><text x="131.20" y="267.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">občerstvení</text></g><g id="znacka-47_turisticky_pristresek"><svg viewBox="1.5 1 53 56" x="158.40" y="246.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>turistický přístřešek</title>
+  <polygon points="28,2 53.5,27.5 2.5,27.5" fill="#e31e24" />
+  <rect x="25.5" y="27" width="5" height="24.5" fill="#e31e24" />
+  <rect x="7" y="51" width="43" height="5" fill="#e31e24" />
+</svg><text x="166.40" y="267.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">turistický</text><text x="166.40" y="271.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">přístřešek</text></g><g id="znacka-48_ubytovani_se_stravovanim"><svg viewBox="0.9 0.2 56.2 47.8" version="1.1" id="svg2" sodipodi:docname="48_ubytovani_se_stravovanim.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="193.60" y="246.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs2" />
+  <sodipodi:namedview id="namedview2" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="14.755737" inkscape:cx="3.4562827" inkscape:cy="2.3719587" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg2" />
+  <title id="title1">ubytování se stravováním</title>
+  <polyline points="3,26 29,3.5 55,26" fill="none" stroke="#e31e24" stroke-width="3.4" stroke-linejoin="miter" stroke-linecap="butt" id="polyline1" />
+  <polyline points="10.6,22 10.6,45.4 47.4,45.4 47.4,22" fill="none" stroke="#e31e24" stroke-width="3.2" stroke-linejoin="miter" stroke-linecap="butt" id="polyline2" transform="matrix(0.99727749,0,0,1.0958554,0.0789528,-4.4481241)" />
+  <rect x="19.507164" y="24" width="19" height="15" fill="#e31e24" id="rect2" />
+</svg><text x="201.60" y="267.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">ubytování se</text><text x="201.60" y="271.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">stravováním</text></g><g id="znacka-49_ubytovani_bez_stravovani"><svg viewBox="0.9 0.2 56.2 47.8" version="1.1" id="svg2" sodipodi:docname="49_ubytovani_bez_stravovani.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="17.60" y="280.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs2" />
+  <sodipodi:namedview id="namedview2" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="14.755737" inkscape:cx="-7.0481059" inkscape:cy="8.6745918" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg2" />
+  <title id="title1">ubytování bez stravování</title>
+  <polyline points="3,26 29,3.5 55,26" fill="none" stroke="#e31e24" stroke-width="3.4" stroke-linejoin="miter" stroke-linecap="butt" id="polyline1" />
+  <polyline points="10.6,22 10.6,45.4 47.4,45.4 47.4,22" fill="none" stroke="#e31e24" stroke-width="3.2" stroke-linejoin="miter" stroke-linecap="butt" id="polyline2" transform="matrix(0.9971163,0,0,1.1016765,0.0836272,-4.7181749)" />
+  <rect x="20.858616" y="27.433048" width="16" height="11" fill="none" stroke="#e31e24" stroke-width="3" id="rect2" />
+</svg><text x="25.60" y="301.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">ubytování bez</text><text x="25.60" y="305.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">stravování</text></g><g id="znacka-50_autokempink"><svg viewBox="2 0.9 59 51.1" x="52.80" y="280.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>autokempink</title>
+  <line x1="29" y1="5" x2="48" y2="47" stroke="#e31e24" stroke-width="6.2" stroke-linecap="round" />
+  <line x1="38" y1="5" x2="19" y2="47" stroke="#e31e24" stroke-width="6.2" stroke-linecap="round" />
+  <rect x="3" y="46" width="57" height="5" fill="#e31e24" />
+</svg><text x="60.80" y="301.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">autokempink</text></g><g id="znacka-51_verejne_taboriste"><svg viewBox="3.1 10.3 46.3 46.2" version="1.1" id="svg2" sodipodi:docname="51_verejne_taboriste.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="88.00" y="280.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs2" />
+  <sodipodi:namedview id="namedview2" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="61.067039" inkscape:cx="11.020675" inkscape:cy="2.8329522" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg2" />
+  <title id="title1">veřejné tábořiště</title>
+  <polygon points="4.16,55.5 9.84,55.5 28.5,20.63 28.5,11.5 23.5,11.5 23.5,19.37" fill="#e31e24" id="polygon1" />
+  <polygon points="28.17,20.26 23.83,22.74 42.62,55.5 48.38,55.5" fill="#e31e24" id="polygon2" />
+  <path d="m 26.376259,11.637865 c 3.8,-0.8 6.8,1.6 11.5,3.2 v 5.7 c -4.7,-1.6 -7.7,-4 -11.5,-3.2 z" fill="#e31e24" id="path2" />
+</svg><text x="96.00" y="301.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">veřejné tábořiště</text></g><g id="znacka-52_bivak"><svg viewBox="2 1 43 66" version="1.1" id="svg2" sodipodi:docname="52_bivak.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="123.20" y="280.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs2" />
+  <sodipodi:namedview id="namedview2" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="30.226642" inkscape:cx="4.1354247" inkscape:cy="13.101025" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg2" />
+  <title id="title1">bivak</title>
+  <path d="M23.5,4.5 C36,4.5 41.5,10 41.5,23 C41.5,40 34,63.5 23.5,63.5 C13,63.5 5.5,40 5.5,23 C5.5,10 11,4.5 23.5,4.5 Z" fill="none" stroke="#e31e24" stroke-width="5" stroke-linejoin="miter" stroke-linecap="butt" id="path1" />
+  <circle cx="23.5" cy="19.5" r="8" fill="#e31e24" id="circle1" />
+  <rect x="21" y="26" width="5" height="32" fill="#e31e24" id="rect1" />
+  <rect style="fill:#e31e24;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none" id="rect2-6" width="10.416446" height="4.376658" x="3.5083766" y="-39.266247" transform="rotate(137.50139)" />
+  <rect style="fill:#e31e24;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none" id="rect2-6-5" width="10.416446" height="4.376658" x="38.042618" y="-7.6175094" transform="matrix(0.73729373,0.67557232,0.67557232,-0.73729373,0,0)" />
+</svg><text x="131.20" y="301.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">bivak</text></g><g id="znacka-53_hrad_zamek_pristupny"><svg viewBox="1 1 46 57" x="158.40" y="280.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>hrad, zámek nebo tvrz veřejnosti přístupné</title>
+  <polygon points="24,2 46,22 33,22 33,57 14,57 14,22 2,22" fill="#e31e24" />
+</svg><text x="166.40" y="301.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">hrad, zámek nebo</text><text x="166.40" y="305.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">tvrz veřejnosti</text><text x="166.40" y="309.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">přístupné</text></g><g id="znacka-54_hrad_zamek_nepristupny"><svg viewBox="1 1.1 46 56.9" x="193.60" y="280.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>hrad, zámek nebo tvrz veřejnosti nepřístupné</title>
+  <polygon points="24,4.3 41.8,20.5 31.4,20.5 31.4,55.4 15.6,55.4 15.6,20.5 6.2,20.5" fill="none" stroke="#e31e24" stroke-width="3.2" stroke-linejoin="miter" />
+</svg><text x="201.60" y="301.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">hrad, zámek nebo</text><text x="201.60" y="305.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">tvrz veřejnosti</text><text x="201.60" y="309.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">nepřístupné</text></g><g id="znacka-55_zricenina"><svg viewBox="1 2 37.5 42" x="17.60" y="314.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>zřícenina</title>
+  <polygon points="2,3 22,3 22,22.5 37.5,22.5 37.5,43 2,43" fill="#e31e24" />
+</svg><text x="25.60" y="335.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">zřícenina</text></g><g id="znacka-56_hradisko"><svg viewBox="1 0.5 54 54" x="52.80" y="314.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>hradisko</title>
+  <circle cx="28" cy="27.5" r="23.2" fill="none" stroke="#e31e24" stroke-width="5.6" />
+  <circle cx="28" cy="27.5" r="10.3" fill="none" stroke="#e31e24" stroke-width="5.2" />
+</svg><text x="60.80" y="335.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">hradisko</text></g><g id="znacka-57_stanice_horske_sluzby"><svg viewBox="2 2 49 49" version="1.1" id="svg3" sodipodi:docname="57_stanice_horske_sluzby.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="88.00" y="314.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs3" />
+  <sodipodi:namedview id="namedview3" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="10.178359" inkscape:cx="12.084463" inkscape:cy="-2.063201" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg3" />
+  <title id="title1">stanice horské služby</title>
+  <rect x="4.5" y="4.5" width="44" height="44" fill="#ffffff" stroke="#e31e24" stroke-width="3" id="rect1" />
+  <rect x="23.117622" y="4.5" width="7.5" height="44" fill="#e31e24" id="rect2" />
+  <rect x="4.5" y="22.75" width="44" height="7.5" fill="#e31e24" id="rect3" />
+</svg><text x="96.00" y="335.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">stanice horské</text><text x="96.00" y="339.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">služby</text></g><g id="znacka-58_nemocnice"><svg viewBox="0 1.5 51 51" x="123.20" y="314.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>nemocnice</title>
+  <circle cx="25.5" cy="27" r="23" fill="#ffffff" stroke="#e31e24" stroke-width="3" />
+  <rect x="22.5" y="4" width="6" height="46" fill="#e31e24" />
+  <rect x="2.5" y="24" width="46" height="6" fill="#e31e24" />
+</svg><text x="131.20" y="335.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">nemocnice</text></g><g id="znacka-59_autobusova_zastavka"><svg viewBox="1.2 0.9 26.4 47.6" version="1.1" id="svg1" sodipodi:docname="59_autobusova_zastavka.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="158.40" y="314.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs1" />
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="22.627417" inkscape:cx="18.075417" inkscape:cy="8.0875338" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg1" />
+  <title id="title1">autobusová zastávka</title>
+  <circle cx="14.5" cy="14" r="9.8" fill="none" stroke="#e31e24" stroke-width="4.6" id="circle1" />
+  <rect x="2.3986349" y="14" width="4.5999999" height="33.5" fill="#e31e24" id="rect1" />
+</svg><text x="166.40" y="335.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">autobusová zastávka</text></g><g id="znacka-60_autobusove_nadrazi"><svg viewBox="1 1 33 50" version="1.1" id="svg2" sodipodi:docname="60_autobusove_nadrazi.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="193.60" y="314.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs2" />
+  <sodipodi:namedview id="namedview2" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="9.9747917" inkscape:cx="-7.3184486" inkscape:cy="0.80202176" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg2" />
+  <title id="title1">autobusové nádraží</title>
+  <rect x="2" y="2" width="31" height="48" fill="#e31e24" id="rect1" />
+  <circle cx="19.5" cy="17.5" r="6.3" fill="#e31e24" id="circle2" />
+  <circle cx="18.106236" cy="15.593147" r="9.8000002" fill="none" stroke="#e31e24" stroke-width="4.6" id="circle1" style="stroke:#ffffff" />
+  <rect x="6.004868" y="15.593147" width="4.5999999" height="33.5" fill="#e31e24" id="rect1-3" style="fill:#ffffff" />
+</svg><text x="201.60" y="335.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">autobusové nádraží</text></g><g id="znacka-61_bunkry"><svg viewBox="1.4 2.6 28.7 24.4" x="17.60" y="348.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>bunkry</title>
+  <rect x="6.4" y="8.9" width="18.7" height="11.7" fill="none" rx="2.5" stroke="#e31e24" stroke-width="1.8" />
+  <line x1="7.2" y1="9.7" x2="3.2" y2="4.2" stroke="#e31e24" stroke-width="1.8" stroke-linecap="butt" />
+  <line x1="24.3" y1="9.7" x2="28.3" y2="4.2" stroke="#e31e24" stroke-width="1.8" stroke-linecap="butt" />
+  <line x1="24.3" y1="19.8" x2="28.3" y2="25.5" stroke="#e31e24" stroke-width="1.8" stroke-linecap="butt" />
+  <line x1="7.2" y1="19.8" x2="3.2" y2="25.5" stroke="#e31e24" stroke-width="1.8" stroke-linecap="butt" />
+</svg><text x="25.60" y="369.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">bunkry</text></g><g id="znacka-62_pevnustky"><svg viewBox="1.2 1.9 43.6 30.2" x="52.80" y="348.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>pevnůstky</title>
+  <rect x="6" y="8" width="34" height="18" fill="none" rx="3" stroke="#e31e24" stroke-width="1.8" />
+  <line x1="6.8" y1="8.8" x2="3" y2="3.5" stroke="#e31e24" stroke-width="1.8" stroke-linecap="butt" />
+  <line x1="39.2" y1="8.8" x2="43" y2="3.5" stroke="#e31e24" stroke-width="1.8" stroke-linecap="butt" />
+  <line x1="39.2" y1="25.2" x2="43" y2="30.5" stroke="#e31e24" stroke-width="1.8" stroke-linecap="butt" />
+  <line x1="6.8" y1="25.2" x2="3" y2="30.5" stroke="#e31e24" stroke-width="1.8" stroke-linecap="butt" />
+</svg><text x="60.80" y="369.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">pevnůstky</text></g><g id="znacka-63_jezdectvi"><svg viewBox="-0.4 0 53.9 41" x="88.00" y="348.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>jezdectví</title>
+  <path d="M8,10 L7.5,2 L13.5,6.5 Q24,3 33,9 C42,15 47,28 51.5,39 L21,39 C21,33 22,28.5 25,25.5 C19.5,28.5 15,32 11.5,34.5 C8,37 3.5,37 2,34 C0.8,31 2.5,27.5 4.5,25 C6.5,20 6.5,15 8,10 Z" fill="#ffe900" stroke="#231f20" stroke-width="2" stroke-linejoin="round" stroke-linecap="butt" />
+  <ellipse cx="15" cy="15.5" rx="2.3" ry="1.7" fill="#231f20" transform="rotate(-20 15 15.5)" />
+  <circle cx="5.5" cy="30.5" r="1" fill="#231f20" />
+</svg><text x="96.00" y="369.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">jezdectví</text></g><g id="znacka-64_dul_v_provozu"><svg viewBox="4.8 2.4 31.4 38.6" x="123.20" y="348.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>důl v provozu</title>
+  <line x1="7" y1="39" x2="31" y2="10.5" stroke="#231f20" stroke-width="3" stroke-linecap="butt" />
+  <polygon points="-7,-2.9 0,-2.9 7,2.9 -7,2.9" fill="#231f20" stroke="#231f20" stroke-width="0.6" stroke-linejoin="round" transform="translate(31.00 10.50) rotate(40.1)" />
+  <line x1="34" y1="39" x2="10" y2="10.5" stroke="#231f20" stroke-width="3" stroke-linecap="butt" />
+  <polygon points="7,-2.9 0,-2.9 -7,2.9 7,2.9" fill="#231f20" stroke="#231f20" stroke-width="0.6" stroke-linejoin="round" transform="translate(10.00 10.50) rotate(-40.1)" />
+</svg><text x="131.20" y="369.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">důl v provozu</text></g><g id="znacka-65_dul_mimo_provoz"><svg viewBox="4.2 2 31.6 38.6" x="158.40" y="348.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>důl mimo provoz</title>
+  <line x1="33" y1="4" x2="9" y2="32.5" stroke="#231f20" stroke-width="3" stroke-linecap="butt" />
+  <polygon points="-7,-2.9 0,-2.9 7,2.9 -7,2.9" fill="#231f20" stroke="#231f20" stroke-width="0.6" stroke-linejoin="round" transform="translate(9.00 32.50) rotate(220.1)" />
+  <line x1="7" y1="4" x2="31" y2="32.5" stroke="#231f20" stroke-width="3" stroke-linecap="butt" />
+  <polygon points="7,-2.9 0,-2.9 -7,2.9 7,2.9" fill="#231f20" stroke="#231f20" stroke-width="0.6" stroke-linejoin="round" transform="translate(31.00 32.50) rotate(139.9)" />
+</svg><text x="166.40" y="369.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">důl mimo provoz</text></g><g id="znacka-66_dul_verejne_pristupny"><svg viewBox="5 2.4 31 38.5" x="193.60" y="348.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>důl veřejně přístupný</title>
+  <line x1="7" y1="39" x2="31" y2="10.5" stroke="#e31e24" stroke-width="2.6" stroke-linecap="butt" />
+  <polygon points="-7,-2.9 0,-2.9 7,2.9 -7,2.9" fill="#e31e24" stroke="#e31e24" stroke-width="0.6" stroke-linejoin="round" transform="translate(31.00 10.50) rotate(40.1)" />
+  <line x1="34" y1="39" x2="10" y2="10.5" stroke="#e31e24" stroke-width="2.6" stroke-linecap="butt" />
+  <polygon points="7,-2.9 0,-2.9 -7,2.9 7,2.9" fill="#e31e24" stroke="#e31e24" stroke-width="0.6" stroke-linejoin="round" transform="translate(10.00 10.50) rotate(-40.1)" />
+</svg><text x="201.60" y="369.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">důl veřejně</text><text x="201.60" y="373.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">přístupný</text></g><g id="znacka-67_kostel"><svg viewBox="1.8 1 29 49.5" version="1.1" id="svg2" sodipodi:docname="67_kostel.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="17.60" y="382.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs2" />
+  <sodipodi:namedview id="namedview2" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="14.248976" inkscape:cx="-6.8776872" inkscape:cy="1.754512" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg2" />
+  <title id="title1">kostel</title>
+  <rect x="14.396519" y="2.787797" width="3.1570575" height="20" fill="#231f20" id="rect1" style="stroke-width:1.10193" />
+  <rect x="4.7214704" y="11.350205" width="23" height="2.2858849" fill="#231f20" id="rect2" style="stroke-width:0.819951" />
+  <circle cx="16.3" cy="36" r="11.1" fill="none" stroke="#231f20" stroke-width="4.8" id="circle2" />
+</svg><text x="25.60" y="403.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">kostel</text></g><g id="znacka-68_kaple"><svg viewBox="1.3 1 29 49" version="1.1" id="svg2" sodipodi:docname="68_kaple.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="52.80" y="382.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs2" />
+  <sodipodi:namedview id="namedview2" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="20.356717" inkscape:cx="2.357944" inkscape:cy="9.2844046" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg2" />
+  <title id="title1">kaple</title>
+  <rect x="14.275064" y="2.2599468" width="2.5999999" height="20" fill="#231f20" id="rect1" />
+  <rect x="3.6750665" y="10.559683" width="24" height="2.425199" fill="#231f20" id="rect2" style="stroke-width:0.844567" />
+  <circle cx="15.8" cy="35.5" r="13.5" fill="#231f20" id="circle2" />
+</svg><text x="60.80" y="403.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">kaple</text></g><g id="znacka-69_bozi_muka"><svg viewBox="1 1 31 46.8" version="1.1" id="svg3" sodipodi:docname="69_bozi_muka.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="88.00" y="382.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs3" />
+  <sodipodi:namedview id="namedview3" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="15.071032" inkscape:cx="3.1849179" inkscape:cy="2.2559835" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg3" />
+  <title id="title1">boží muka</title>
+  <rect x="15.307223" y="2" width="2.4000001" height="20" fill="#231f20" id="rect1" />
+  <rect x="9.1316652" y="10.009448" width="15" height="2.3366635" fill="#231f20" id="rect2" style="stroke-width:0.948007" />
+  <path d="M10.2,44 V28 Q10.2,21.5 16.6,21.5 Q23,21.5 23,28 V44" fill="none" stroke="#231f20" stroke-width="2.3" stroke-linejoin="miter" stroke-linecap="butt" id="path2" />
+  <rect x="2" y="43" width="29" height="2.0620689" fill="#231f20" id="rect3" style="stroke-width:0.736648" />
+</svg><text x="96.00" y="403.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">boží muka</text></g><g id="znacka-70_kriz"><svg viewBox="1 1 25 39.1" x="123.20" y="382.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>kříž</title>
+  <polyline points="12.3,2 12.3,37.7 25,37.7" fill="none" stroke="#231f20" stroke-width="2.7" stroke-linejoin="miter" stroke-linecap="butt" />
+  <line x1="2" y1="13.5" x2="23" y2="13.5" stroke="#231f20" stroke-width="2.7" stroke-linecap="butt" />
+</svg><text x="131.20" y="403.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">kříž</text></g><g id="znacka-71_smirci_kriz"><svg viewBox="0 1 38 46" version="1.1" id="svg1" sodipodi:docname="71_smirci_kriz.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="158.40" y="382.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs1" />
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="21.68433" inkscape:cx="3.504835" inkscape:cy="6.6868563" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg1" />
+  <title id="title1">smírčí kříž</title>
+  <path d="M15,13 V5.5 Q15,3 18.5,3 Q22,3 22,5.5 V13 H33.5 Q36,13 36,17.5 Q36,22 33.5,22 H22 V44 H15 V22 H4.5 Q2,22 2,17.5 Q2,13 4.5,13 Z" fill="#ffffff" stroke="#231f20" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="butt" id="path1" />
+  <line x1="2.7567647" y1="44.050938" x2="33.756763" y2="44.050938" stroke="#231f20" stroke-width="1.9" stroke-linecap="butt" id="line1" />
+</svg><text x="166.40" y="403.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">smírčí kříž</text></g><g id="znacka-72_klaster"><svg viewBox="-1 1 48 61" version="1.1" id="svg3" sodipodi:docname="72_klaster.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="193.60" y="382.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs3" />
+  <sodipodi:namedview id="namedview3" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="11.562693" inkscape:cx="1.6432158" inkscape:cy="4.237767" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg3" />
+  <title id="title1">klášter</title>
+  <rect x="20" y="2" width="6" height="27" fill="#231f20" id="rect1" />
+  <rect x="9" y="10.970819" width="28" height="6" fill="#231f20" id="rect2" />
+  <rect x="3.2" y="30.2" width="39.6" height="27.6" fill="#ffffff" stroke="#231f20" stroke-width="6.4" id="rect3" />
+</svg><text x="201.60" y="403.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">klášter</text></g><g id="znacka-73_zidovska_pamatka"><svg viewBox="1.3 0.1 36.4 42.8" x="17.60" y="416.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>židovská památka</title>
+  <polygon points="19.5,2.5 35.5,30.5 3.5,30.5" fill="#f8c608" />
+  <polygon points="19.5,40.5 3.5,12.5 35.5,12.5" fill="#f8c608" />
+  <polygon points="19.5,2.5 35.5,30.5 3.5,30.5" fill="none" stroke="#231f20" stroke-width="1.4" stroke-linejoin="miter" />
+  <polygon points="19.5,40.5 3.5,12.5 35.5,12.5" fill="none" stroke="#231f20" stroke-width="1.4" stroke-linejoin="miter" />
+</svg><text x="25.60" y="437.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">židovská památka</text></g><g id="znacka-74_unesco"><svg viewBox="1.2 0.7 61.6 61.3" x="52.80" y="416.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>památka světového kulturního dědictví UNESCO</title>
+  <path d="M25.5,59.04 A28.3,28.3 0 1 1 38.5,59.04 L38.5,42 L49,31.5 L32,14.5 L15,31.5 L25.5,42 Z" fill="#f8c608" stroke="#231f20" stroke-width="3" stroke-linejoin="miter" stroke-linecap="butt" />
+</svg><text x="60.80" y="437.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">památka světového</text><text x="60.80" y="441.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">kulturního dědictví</text><text x="60.80" y="445.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">UNESCO</text></g><g id="znacka-75_pozoruhodne_misto"><svg viewBox="0.5 2 37 37" x="88.00" y="416.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>všeobecně pozoruhodné místo</title>
+  <circle cx="19" cy="20.5" r="17.5" fill="#e31e24" />
+</svg><text x="96.00" y="437.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">všeobecně</text><text x="96.00" y="441.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">pozoruhodné místo</text></g><g id="znacka-76_hajovna"><svg viewBox="2 0.9 43.8 34.1" version="1.1" id="svg4" sodipodi:docname="76_hajovna.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="123.20" y="416.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs4" />
+  <sodipodi:namedview id="namedview4" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="29.251588" inkscape:cx="3.7262935" inkscape:cy="3.5895487" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg4" />
+  <title id="title1">hájovna</title>
+  <rect x="3" y="17" width="25" height="17" fill="#231f20" id="rect1" />
+  <line x1="26.755836" y1="18.255836" x2="37.755829" y2="8.7558327" stroke="#231f20" stroke-width="2.5" stroke-linecap="butt" id="line1" />
+  <line x1="37.755829" y1="8.7558327" x2="37.255829" y2="2.2558336" stroke="#231f20" stroke-width="1.8" stroke-linecap="butt" id="line2" />
+  <line x1="37.755829" y1="8.7558327" x2="41.755829" y2="4.5558348" stroke="#231f20" stroke-width="1.8" stroke-linecap="butt" id="line3" />
+  <line x1="37.755829" y1="8.7558327" x2="44.755829" y2="10.755834" stroke="#231f20" stroke-width="1.8" stroke-linecap="butt" id="line4" />
+</svg><text x="131.20" y="437.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">hájovna</text></g><g id="znacka-77_pomnik"><svg viewBox="1 1.4 37 33.2" version="1.1" id="svg1" sodipodi:docname="77_pomnik.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="158.40" y="416.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs1" />
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="15.022277" inkscape:cx="7.7884332" inkscape:cy="-5.5916956" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg1" />
+  <title id="title1">pomník</title>
+  <path d="M 9.8954897,30.5 V 10 q 0,-6.2 5.9000003,-6.2 h 7 q 5.9,0 5.9,6.2 v 20.5" fill="none" stroke="#231f20" stroke-width="2.8" stroke-linejoin="miter" stroke-linecap="butt" id="path1" />
+  <rect x="2" y="30" width="35" height="2.8954906" fill="#231f20" id="rect1" style="stroke-width:0.896829" />
+</svg><text x="166.40" y="437.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">pomník</text></g><g id="znacka-78_hrbitov"><svg viewBox="1 1 65 44" x="193.60" y="416.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>hřbitov</title>
+  <rect x="2.9" y="2.9" width="61.2" height="40.2" fill="#f6f6e0" stroke="#231f20" stroke-width="1.8" />
+  <line x1="19" y1="19" x2="19" y2="37" stroke="#231f20" stroke-width="2.2" stroke-linecap="butt" />
+  <line x1="11" y1="28" x2="27" y2="28" stroke="#231f20" stroke-width="2.2" stroke-linecap="butt" />
+  <line x1="46" y1="9" x2="46" y2="27" stroke="#231f20" stroke-width="2.2" stroke-linecap="butt" />
+  <line x1="38" y1="18" x2="54" y2="18" stroke="#231f20" stroke-width="2.2" stroke-linecap="butt" />
+</svg><text x="201.60" y="437.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">hřbitov</text></g><g id="znacka-79_transformator"><svg viewBox="0.9 0.2 22.2 35.4" x="17.60" y="450.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>transformátor</title>
+  <circle cx="10.5" cy="26" r="8.6" fill="#231f20" />
+  <polyline points="10.5,18 10.5,6.5 19,13.5 19,3" fill="none" stroke="#231f20" stroke-width="1.8" stroke-linejoin="miter" stroke-linecap="butt" />
+  <polyline points="16.5,5.5 19,2.5 21.5,5.5" fill="none" stroke="#231f20" stroke-width="1.6" stroke-linejoin="miter" stroke-linecap="butt" />
+</svg><text x="25.60" y="471.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">transformátor</text></g><g id="znacka-80_meteorologicka_stanice"><svg viewBox="2 0.9 40.6 50.1" version="1.1" id="svg3" sodipodi:docname="80_meteorologicka_stanice.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="52.80" y="450.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs3" />
+  <sodipodi:namedview id="namedview3" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="19.909763" inkscape:cx="10.597816" inkscape:cy="6.0271938" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg3" />
+  <title id="title1">meteorologická stanice</title>
+  <polygon points="22,29 5,50 40,50" fill="#231f20" id="polygon1" />
+  <line x1="22" y1="8.6276197" x2="22" y2="31.127623" stroke="#231f20" stroke-width="2.6" stroke-linecap="butt" id="line1" />
+  <line x1="9" y1="8.696435" x2="35.880371" y2="8.696435" stroke="#231f20" stroke-width="1.86237" stroke-linecap="butt" id="line2" />
+  <polygon points="10,7.5 12.5,12.5 3,7.5 12.5,2.5 " fill="#231f20" id="polygon2" transform="translate(0,1.1276196)" />
+  <polyline points="41,2.5 36,7.5 41,12.5" fill="none" stroke="#231f20" stroke-width="1.7" stroke-linejoin="miter" stroke-linecap="butt" id="polyline2" transform="translate(0,1.1276196)" />
+</svg><text x="60.80" y="471.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">meteorologická</text><text x="60.80" y="475.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">stanice</text></g><g id="znacka-81_komin"><svg viewBox="1 1.2 21 49.8" x="88.00" y="450.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>komín</title>
+  <polygon points="8,14 15,14 17,46 5.5,46" fill="#231f20" />
+  <rect x="2" y="45.5" width="19" height="4.5" fill="#231f20" />
+  <ellipse cx="14" cy="6.5" rx="2.3" ry="5" fill="#231f20" transform="rotate(35 14 6.5)" />
+</svg><text x="96.00" y="471.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">komín</text></g><g id="znacka-82_vodni_mlyn"><svg viewBox="6.1 4.5 45.8 51" x="123.20" y="450.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>vodní mlýn</title>
+  <circle cx="29" cy="30" r="12.2" fill="none" stroke="#231f20" stroke-width="2.5" />
+  <line x1="29" y1="17" x2="29" y2="5.5" stroke="#231f20" stroke-width="2.5" stroke-linecap="butt" />
+  <line x1="17.7417" y1="23.5" x2="7.78238" y2="17.75" stroke="#231f20" stroke-width="2.5" stroke-linecap="butt" />
+  <line x1="17.7417" y1="36.5" x2="7.78238" y2="42.25" stroke="#231f20" stroke-width="2.5" stroke-linecap="butt" />
+  <line x1="29" y1="43" x2="29" y2="54.5" stroke="#231f20" stroke-width="2.5" stroke-linecap="butt" />
+  <line x1="40.2583" y1="36.5" x2="50.2176" y2="42.25" stroke="#231f20" stroke-width="2.5" stroke-linecap="butt" />
+  <line x1="40.2583" y1="23.5" x2="50.2176" y2="17.75" stroke="#231f20" stroke-width="2.5" stroke-linecap="butt" />
+</svg><text x="131.20" y="471.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">vodní mlýn</text></g><g id="znacka-83_vetrny_mlyn"><svg viewBox="1.9 1.3 28.2 47.5" x="158.40" y="450.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>větrný mlýn</title>
+  <line x1="3.5" y1="3.5" x2="28.5" y2="16.5" stroke="#231f20" stroke-width="2.6" stroke-linecap="butt" />
+  <line x1="28.5" y1="3.5" x2="3.5" y2="16.5" stroke="#231f20" stroke-width="2.6" stroke-linecap="butt" />
+  <line x1="15.5" y1="9" x2="15.5" y2="47.8" stroke="#231f20" stroke-width="2.6" stroke-linecap="butt" />
+  <line x1="14.2" y1="46.5" x2="27" y2="46.5" stroke="#231f20" stroke-width="2.6" stroke-linecap="butt" />
+</svg><text x="166.40" y="471.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">větrný mlýn</text></g><g id="znacka-84_vetrna_elektrarna"><svg viewBox="2.1 2.4 33.9 57.9" x="193.60" y="450.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>větrná elektrárna</title>
+  <polyline points="16,21 16,58 34,58" fill="none" stroke="#231f20" stroke-width="2.5" stroke-linejoin="miter" stroke-linecap="butt" />
+  <line x1="16" y1="22" x2="7" y2="4" stroke="#231f20" stroke-width="2.4" stroke-linecap="butt" />
+  <line x1="16" y1="21" x2="35" y2="21" stroke="#231f20" stroke-width="2.4" stroke-linecap="butt" />
+  <line x1="16" y1="22" x2="4" y2="36" stroke="#231f20" stroke-width="2.4" stroke-linecap="butt" />
+</svg><text x="201.60" y="471.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">větrná elektrárna</text></g><g id="znacka-85_telekomunikacni_vez"><svg viewBox="1 2 24 54" x="17.60" y="484.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>telekomunikační věž</title>
+  <rect x="3" y="3" width="20" height="3.8" fill="#231f20" />
+  <rect x="3" y="15" width="20" height="3.8" fill="#231f20" />
+  <rect x="11.2" y="3" width="3.6" height="38" fill="#231f20" />
+  <circle cx="13" cy="44" r="11" fill="#231f20" />
+</svg><text x="25.60" y="505.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">telekomunikační věž</text></g><g id="znacka-86_telekomunikacni_vez_pristupna"><svg viewBox="1 2 24 54" x="52.80" y="484.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>telekomunikační věž veřejně přístupná</title>
+  <rect x="3" y="3" width="20" height="3.8" fill="#e31e24" />
+  <rect x="3" y="15" width="20" height="3.8" fill="#e31e24" />
+  <rect x="11.2" y="3" width="3.6" height="38" fill="#e31e24" />
+  <circle cx="13" cy="44" r="11" fill="#e31e24" />
+</svg><text x="60.80" y="505.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">telekomunikační věž</text><text x="60.80" y="509.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">veřejně přístupná</text></g><g id="znacka-87_vezovita_stavba"><svg viewBox="1.3 2.3 24.4 57.4" version="1.1" id="svg1" sodipodi:docname="87_vezovita_stavba.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="88.00" y="484.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs1" />
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="17.377687" inkscape:cx="-1.1509012" inkscape:cy="8.2289432" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg1" />
+  <title id="title1">věžovitá stavba</title>
+  <polyline points="6.8,38 13.5,3.5 20.2,38" fill="none" stroke="#231f20" stroke-width="1.5" stroke-linejoin="miter" stroke-linecap="butt" id="polyline1" transform="matrix(1.3509537,0,0,0.99694728,-4.8520655,4.8593649)" />
+  <circle cx="13.5" cy="47.5" r="11.2" fill="#231f20" id="circle1" />
+</svg><text x="96.00" y="505.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">věžovitá stavba</text></g><g id="znacka-88_vodarenska_vez"><svg viewBox="2.5 2.3 25 60.2" version="1.1" id="svg1" sodipodi:docname="88_vodarenska_vez.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" x="123.20" y="484.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <defs id="defs1" />
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="16.569421" inkscape:cx="-0.42246496" inkscape:cy="7.483665" inkscape:window-width="1920" inkscape:window-height="962" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg1" />
+  <title id="title1">vodárenská věž</title>
+  <polyline points="6.8,38 13.5,3.5 20.2,38" fill="none" stroke="#231f20" stroke-width="1.5" stroke-linejoin="miter" stroke-linecap="butt" id="polyline1-5" transform="matrix(1.3509537,0,0,0.99694728,-3.0893338,4.6086006)" style="stroke:#0892cd;stroke-opacity:1" />
+  <circle cx="15.270161" cy="47.249237" r="11.2" fill="#231f20" id="circle1-3" style="fill:#0892cd;fill-opacity:1" />
+</svg><text x="131.20" y="505.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">vodárenská věž</text></g><g id="znacka-89_vodni_elektrarna"><svg viewBox="0 0 51 51" x="158.40" y="484.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>vodní elektrárna</title>
+  <circle cx="25.5" cy="25.5" r="24.5" fill="#0868b0" />
+  <polyline points="12.5,42 21.5,20.5 27.5,33 36,14" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="butt" />
+  <polygon points="31.5,14 38.5,7 40,17" fill="#ffffff" />
+</svg><text x="166.40" y="505.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">vodní elektrárna</text></g><g id="znacka-90_muzeum"><svg viewBox="0.2 0.2 49.6 49.6" x="193.60" y="484.00" width="16.00" height="16.00" preserveAspectRatio="xMidYMid meet">
+  <title>muzeum</title>
+  <circle cx="25" cy="25" r="22" fill="#ffffff" stroke="#e31e24" stroke-width="3.6" />
+  <polygon points="10.4,38.4 10.4,11.6 17.2,11.6 25,24.5 32.8,11.6 39.6,11.6 39.6,38.4 33.8,38.4 33.8,21.8 27,32.3 23,32.3 16.2,21.8 16.2,38.4" fill="#e31e24" />
+</svg><text x="201.60" y="505.20" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.20" text-anchor="middle" fill="#1b1b1b">muzeum</text></g></svg>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="4.96mm" height="4.96mm" viewBox="0.2 0.2 49.6 49.6">
+  <title>muzeum</title>
+  <circle cx="25" cy="25" r="22" fill="#ffffff" stroke="#e31e24" stroke-width="3.6"/>
+  <polygon points="10.4,38.4 10.4,11.6 17.2,11.6 25,24.5 32.8,11.6 39.6,11.6 39.6,38.4 33.8,38.4 33.8,21.8 27,32.3 23,32.3 16.2,21.8 16.2,38.4" fill="#e31e24"/>
+</svg>
